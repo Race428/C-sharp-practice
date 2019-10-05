@@ -1,0 +1,11 @@
+/Users/raceacheson/development/projects/c#/practice/practiceApp/bin/Debug/netcoreapp3.0/practiceApp
+/Users/raceacheson/development/projects/c#/practice/practiceApp/bin/Debug/netcoreapp3.0/practiceApp.deps.json
+/Users/raceacheson/development/projects/c#/practice/practiceApp/bin/Debug/netcoreapp3.0/practiceApp.runtimeconfig.json
+/Users/raceacheson/development/projects/c#/practice/practiceApp/bin/Debug/netcoreapp3.0/practiceApp.runtimeconfig.dev.json
+/Users/raceacheson/development/projects/c#/practice/practiceApp/bin/Debug/netcoreapp3.0/practiceApp.dll
+/Users/raceacheson/development/projects/c#/practice/practiceApp/bin/Debug/netcoreapp3.0/practiceApp.pdb
+/Users/raceacheson/development/projects/c#/practice/practiceApp/obj/Debug/netcoreapp3.0/practiceApp.csprojAssemblyReference.cache
+/Users/raceacheson/development/projects/c#/practice/practiceApp/obj/Debug/netcoreapp3.0/practiceApp.AssemblyInfoInputs.cache
+/Users/raceacheson/development/projects/c#/practice/practiceApp/obj/Debug/netcoreapp3.0/practiceApp.AssemblyInfo.cs
+/Users/raceacheson/development/projects/c#/practice/practiceApp/obj/Debug/netcoreapp3.0/practiceApp.dll
+/Users/raceacheson/development/projects/c#/practice/practiceApp/obj/Debug/netcoreapp3.0/practiceApp.pdb

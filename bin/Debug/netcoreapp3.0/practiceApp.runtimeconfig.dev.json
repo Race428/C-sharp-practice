@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/raceacheson/.dotnet/store/|arch|/|tfm|",
+      "/Users/raceacheson/.nuget/packages"
+    ]
+  }
+}

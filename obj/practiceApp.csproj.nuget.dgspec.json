@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/raceacheson/development/projects/c#/practice/practiceApp/practiceApp.csproj": {}
+  },
+  "projects": {
+    "/Users/raceacheson/development/projects/c#/practice/practiceApp/practiceApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raceacheson/development/projects/c#/practice/practiceApp/practiceApp.csproj",
+        "projectName": "practiceApp",
+        "projectPath": "/Users/raceacheson/development/projects/c#/practice/practiceApp/practiceApp.csproj",
+        "packagesPath": "/Users/raceacheson/.nuget/packages/",
+        "outputPath": "/Users/raceacheson/development/projects/c#/practice/practiceApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raceacheson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
